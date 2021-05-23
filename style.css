@@ -1,0 +1,203 @@
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.text-on-img {
+  font-family: serif;
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin: -155px 206px 0 0;
+}
+
+.social-url {
+  color: #d8cec3;
+  font-size: 3em;
+}
+
+.social-url:hover {
+  color: deeppink;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+
+.image-thumbnail {
+  width: 362px;
+  height: 460px;
+  border: none;
+}
+
+.bg-color-pinky {
+  background-color: #c7baac;
+}
+
+.extra-padding-top {
+  padding-top: 6rem !important;
+}
+
+.text-brownish {
+  color: #968a7e;
+  font-family: serif;
+  font-size: 3rem;
+  margin: 20px 60px 60px;
+  text-align: center;
+}
+
+.only-text h6 {
+  letter-spacing: 4px;
+  font-weight: 300;
+  margin: 100px auto 0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.bg-image {
+  background-image: url(assets/tart.jpeg);
+  background-position: center;
+  min-height: 750px;
+}
+
+.menu-desc h6 {
+  font-size: 1.5rem;
+  letter-spacing: 3px;
+}
+
+.menu-desc h2 {
+  color: #968a7e;
+  font-family: serif;
+  font-size: 3rem;
+}
+
+.list-item {
+  padding: 0 6rem 3rem 6rem;
+}
+
+.list-item h6 {
+  font-size: 1.5rem;
+  letter-spacing: 5px;
+}
+
+.list-item p {
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+.slider-container img {
+  width: 100%;
+  height: 550px;
+  padding: 10px;
+}
+
+#slider h2 {
+  color: #968a7e;
+  font-family: serif;
+  font-size: 3em;
+}
+
+#slider p {
+  font-size: 1em;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  font-weight: lighter;
+}
+
+.slider-btn {
+  background-color: #968a7e;
+  border: none;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  margin: 0 auto;
+  display: block;
+  width: 240px;
+  border-radius: 0;
+}
+
+.reviews-text h2 {
+  font-size: 3rem;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.reviews-text i {
+  color: #968a7e;
+  font-size: 3rem;
+}
+
+.reviews-text h4 {
+  letter-spacing: 10px;
+}
+
+.reviews-text p {
+  font-family: sans-serif;
+}
+
+.reviews-text h6 {
+  font-size: 1.5rem;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.diet-img {
+  background-image: url(/assets/appert-plate.jpeg);
+  border: 3px solid transparent;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.diet-img-2 {
+  background-image: url(/assets/fruit-plates.jpeg);
+  border: 3px solid transparent;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.diet-text {
+  position: relative;
+  font-family: sans-serif;
+}
+
+.diet-text-container {
+  border: 3px solid #c7baac;
+}
+
+.diet-text h4 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+.form-group {
+  font-family: sans-serif;
+  width: 700px;
+}
+
+.form img {
+  width: 295px;
+  height: 369px;
+  margin: 20px auto 0 0;
+}
+
+.submit-btn {
+  background-color: #c7baac;
+  border: none;
+  border-radius: 0;
+  color: black;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+}
+
+.form-img {
+  background-image: url(assets/bath-salt.jpeg);
+  background-size: cover;
+  min-height: 750px;
+}
+
+.copyright:not(span) {
+  background-color: #333333;
+  color: bisque;
+  font-family: sans-serif;
+}
+
+.copyright span {
+  color: red;
+}
